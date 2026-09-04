@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cream_soup:item/soup_liquid",
+    "layer1": "cream_soup:item/soup_bowl"
+  }
+}
